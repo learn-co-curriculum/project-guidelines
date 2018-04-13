@@ -1,16 +1,10 @@
-## Objectives
+TODO:
 
-1. Objective 1
-2. Objective 2
+Please advise on what is expected here or provide guidelines.
+Suggestions:
 
-## Instructions
+Work with EITHER p5 or A-Frame in pairs/groups and choose A or B.
 
-Make the tests pass.
+Option A (more fun): Plan a SIMPLE game to make and go for it!
 
-### Part 1: Do Some Stuff
-
-## Resources
-
-* [Stack Exchange](http://www.stackexchange.com) - [Some Question on Stack Exchange](http://www.stackexchange.com/questions/123)
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/project-guidelines'>Project Guidelines</a> on Learn.co and start learning to code for free.</p>
+Option B (more solidifying of important skills): Plan a SIMPLE game to make that somehow incorporates the usage of an API. (Less recommended because some students would almost surely get hung up managing asynchronous responses with the already difficult to manage constant update nature of both p5 and a-frame). 
